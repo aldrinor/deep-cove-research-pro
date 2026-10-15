@@ -1,13 +1,13 @@
-Deep Cove Research: DeepResearch Bench reports
+Deep Cove Research Pro: DeepResearch Bench reports
 
 Copyright (c) 2026 Deep Cove Research. All rights reserved.
 
-The reports (data/deep-cove-research.jsonl and the pages in reports/),
-the figures (assets/) and the text of this repository are proprietary.
-They are published so that they can be read and checked. No license is
-granted to copy, modify or redistribute them, except as the law allows
-without a license or with prior written permission from the copyright
-holder.
+The reports (data/deep-cove-research-pro.jsonl and the pages in
+reports/), the figures (assets/) and the text of this repository are
+proprietary. They are published so that they can be read and checked. No
+license is granted to copy, modify or redistribute them, except as the
+law allows without a license or with prior written permission from the
+copyright holder.
 
 Permission is granted to the DeepResearch Bench maintainers to download,
 copy, process, and retain these submitted reports solely for benchmark
@@ -18,7 +18,7 @@ The benchmark prompts (the "prompt" field and the prompts shown on the
 report pages) are part of DeepResearch Bench and belong to its authors;
 they remain subject to the benchmark's own terms.
 
-The source code of the deep-cove-research system is not included and is
-not licensed.
+The source code of the deep-cove-research-pro system is not included and
+is not licensed.
 
-Contact: orchunyin@gmail.com
+Contact: hello@deepcove.tech
